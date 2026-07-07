@@ -14,7 +14,7 @@ pre: " <b> 1.7. </b> "
 ### Tasks to be Deployed This Week:
 | Day | Task Description | Start Date | End Date | Resource Links |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 5 | - Researched core Docker concepts (Containers, Images, Dockerfiles); created sample Dockerfiles to containerize applications. | 29/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Researched core Docker concepts (Containers, Images, Dockerfiles); created sample Dockerfiles to containerize applications. | 29/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 2 | - Studied Amazon ECR services; performed hands-on creation of Private Repositories and managed Docker images. | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 | - Explored foundational concepts and architectural components of Amazon ECS (Clusters, Task Definitions, Services, Fargate/EC2 launch types). | 02/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - **Hands-on Practice:** <br>Containerized a complete web application into a Docker image, tagged, and pushed the image to Amazon ECR. | 03/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
