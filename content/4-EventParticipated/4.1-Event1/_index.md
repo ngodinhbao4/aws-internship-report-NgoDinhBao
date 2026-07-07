@@ -101,7 +101,7 @@ Attending the **FCAJ Community Day** was a transformative experience that succes
 - Hearing the competitive journeys of young engineers competing in hackathons and presenting architectural designs at global silicon valley tech summits served as a powerful motivator to eliminate procrastination. It highlighted the immediate necessity of mastering modern paradigms like mTLS, infrastructure-as-code, and agentic workflows to build career confidence.
 
 #### Event Gallery
-![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.1-Event1/event1-1.png)
-![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.1-Event1/event1-2.png)
+![FCAJ Community Day 2026 Event Photos](/images/4-Event/4.1-Event1/event1-1.png)
+![FCAJ Community Day 2026 Event Photos](/images/4-Event/4.1-Event1/event1-2.png)
 
 > Ultimately, the event provided a major mindset shift, proving that a stellar engineer in the GenAI era is not defined merely by writing lines of code, but by leveraging technology to solve business problems safely, predictably, and cost-effectively.
