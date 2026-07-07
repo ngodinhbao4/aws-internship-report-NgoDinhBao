@@ -95,10 +95,10 @@ pre: " <b> 4.3. </b> "
 - Không gian sự kiện tại tầng 26 và 36 tạo cơ hội kết nối tuyệt vời. Khán giả không chỉ ngồi nghe thụ động mà được tham gia phản biện, trả lời câu hỏi và nhận về những phần quà thiết thực (như các buổi mentor cà phê trực tiếp với chuyên gia). Điều này xóa nhòa khoảng cách giữa thế hệ đi trước (Founders/CEOs) và thế hệ kỹ sư tương lai.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-1.jpg)
-![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-2.jpg)
-![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-3.jpg)
-![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-4.jpg)
+![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-1.png)
+![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-2.png)
+![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-3.png)
+![Hình ảnh sự kiện FCAJ Community Day 2026](/images/4-Event/4.2-Event2/event2-4.png)
 
 
 > **Tổng kết:** Chuỗi sự kiện FCAJ Community Day tháng 06/2026 đã mang đến một góc nhìn toàn cảnh về bức tranh công nghệ thực tế. Sự kiện giúp tôi nhận ra tầm quan trọng của việc làm chủ kỹ năng nền tảng, tư duy hệ thống bảo mật nghiêm ngặt và tinh thần chủ động dấn thân để không bị đào thải trong thời đại AI trị vì.
