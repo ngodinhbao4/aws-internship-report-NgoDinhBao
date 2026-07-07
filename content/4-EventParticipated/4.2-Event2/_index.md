@@ -95,9 +95,9 @@ pre: " <b> 4.3. </b> "
 - Leveraging two entire floors (26 and 36) facilitated excellent open floor communication. Attendees were encouraged to break out of passive listening modes, challenge speaker statements, and secure practical mentorship rewards over coffee meetups.
 
 #### Event Gallery
-(/images/4-Event/4.2-Event1/event2-1.jpg)
-(/images/4-Event/4.2-Event1/event2-2.jpg)
-(/images/4-Event/4.2-Event1/event2-3.jpg)
-(/images/4-Event/4.2-Event1/event2-4.jpg)
+![FCAJ Community Day 2026 Event Photos](/images/4-Event/4.2-Event1/event2-1.jpg)
+![FCAJ Community Day 2026 Event Photos](/images/4-Event/4.2-Event1/event2-2.jpg)
+![FCAJ Community Day 2026 Event Photos](/images/4-Event/4.2-Event1/event2-3.jpg)
+![FCAJ Community Day 2026 Event Photos](/images/4-Event/4.2-Event1/event2-4.jpg)
 
 > **Summary:** The June 2026 FCAJ Community Day offered a comprehensive window into real-world software operations. The session reinforced that a premier engineer in the GenAI landscape must combine sound foundational coding skills with strict security awareness and a continuous drive to upskill.
