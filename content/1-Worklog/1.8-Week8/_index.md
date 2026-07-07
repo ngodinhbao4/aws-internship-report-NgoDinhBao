@@ -14,7 +14,7 @@ pre: " <b> 1.8. </b> "
 ### Tasks to be Deployed This Week:
 | Day | Task Description | Start Date | End Date | Resource Links |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 5 | - Explored theoretical foundations of CI/CD pipelines; researched scheduling and automating software release lifecycles on AWS. | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Explored theoretical foundations of CI/CD pipelines; researched scheduling and automating software release lifecycles on AWS. | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 2 | - Studied AWS CodeBuild services; authored `buildspec.yml` configuration files to automate source code compilation and software packaging. | 08/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 | - Examined AWS CodeDeploy capabilities; authored `appspec.yml` files and studied safe deployment strategies (In-place, Blue/Green). | 09/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - **Hands-on Practice:** <br>Configured AWS CodePipeline to stitch together multiple stages (Source, Build, Deploy) into a fully automated delivery workflow. | 10/06/2026 | 10/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
